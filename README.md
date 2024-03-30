@@ -18,11 +18,11 @@ Here are some ideas to get you started:
   <div>
     <img src = "https://github-readme-stats.vercel.app/api?username=Adaobi-Chuks&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000"/>
   </div>
-  <div>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adaobi-Chuks&layout=compact&hide_border=false&theme=gotham&bg_color=00000000"/>
+    <div>
+    <img src = "https://streak-stats.demolab.com?user=Adaobi-Chuks&theme=neon"/>
   </div>
   <div>
-    <img src = "https://streak-stats.demolab.com?user=Adaobi-Chuks&theme=neon"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adaobi-Chuks&layout=compact&hide_border=false&theme=gotham&bg_color=00000000"/>
   </div>
   <div>
     <img src = "https://visitcount.itsvg.in/api?id=Adaobi-Chuks&icon=0&color=0"/>
